@@ -1,2 +1,1 @@
-# Disk-Scheduler
-An interactive Flask-based web simulator that visualizes FCFS, SSTF, SCAN, and C-SCAN disk scheduling algorithms. Users enter custom requests and head positions, see real-time disk head movement, and view metrics like seek sequence, total seek time, average seek time, and throughput.
+A web-based Disk Scheduling Simulator built with Flask that visualizes FCFS, SSTF, SCAN, and C-SCAN algorithms. Users enter disk requests and head position, view seek sequence, total and average seek time, throughput, and a real-time graph showing head movement across cylinders.
